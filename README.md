@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Precision prevents breaches. Security Software Engineer, défense et souveraineté numérique" width="100%">
+  <img src="assets/banner.png" alt="Precision prevents breaches. Security Software Engineer - Défense et souveraineté numérique" width="100%">
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Un outil de sécurité qui se trompe sans prévenir est plus dangereux que pas d
   <img src="https://skillicons.dev/icons?i=go,py,c,rust,bash,powershell,git,githubactions,linux,debian,docker,vscode&theme=light&perline=12" alt="Go, Python, C, Rust, Bash, PowerShell, Git, GitHub Actions, Linux, Debian, Docker, VS Code">
 </p>
 
-<p align="center"><sub>Assembleur x86-64 · Proxmox · OPNsense · Suricata · Wazuh · Active Directory · Cisco IOS-XE</sub></p>
+<p align="center"><sub>Assembleur x86-64, Proxmox, OPNsense, Suricata, Wazuh, Active Directory, Cisco IOS-XE</sub></p>
 
 ## Activité
 
