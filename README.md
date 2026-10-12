@@ -34,7 +34,7 @@ Une vingtaine d'outils en Go et Python. Chacun est un logiciel complet, et dix d
 | Détection | Vigil (règles Suricata face aux événements réels), Aegis (honeytokens Active Directory), Custos (YARA) |
 | Accès | Bastion (CA SSH, accès nominatifs et temporaires), Janus (accès restés actifs après un départ) |
 | Cryptographie | Clavis (chiffrement post-quantique à partage de seuil), Aurora (inventaire de la crypto vulnérable au quantique), Tessera (clés libérées après attestation AMD SEV-SNP) |
-| Résilience et conformité | Phoenix (restauration réelle des sauvegardes), Vestige (données personnelles), Sylva (SBOM), Regula (conformité des dépôts), Acta (rapport d'audit) |
+| Résilience et conformité | Phoenix (restauration réelle des sauvegardes), Vestige (données personnelles), Sylva (SBOM), Regula (analyse statique), Acta (rapport d'audit) |
 | Poste | Argus |
 
 ## État d'esprit
